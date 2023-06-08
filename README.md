@@ -1,6 +1,6 @@
 ### Hi there I'm Nikhil Polepalli
 
-##About Me
+## About Me
 
 <!--
 **NSPOLE01/NSPOLE01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
