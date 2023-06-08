@@ -7,6 +7,9 @@ I'm a rising senior at Vanderbilt University studying Computer Science and Econo
 
 ## Contact Me
 Email: nikhil.s.polepalli@gmail.com
+Phone: +1(502)-424-7440
+
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 
 
 <!--
