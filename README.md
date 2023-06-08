@@ -1,15 +1,15 @@
 # Hi there I'm Nikhil Polepalli! 👋🏽
 
 
-## About Me
+## About Me 📝
 I'm a rising senior at Vanderbilt University studying Computer Science and Economics. I love watching soccer, trying out new cooking recipes, and playing spikeball with my friends. I hope this GitHub helps highlight my past experineces and demonstrates my talent as a software engineer!
 
-## Contact Me ✉️
+## Contact Me 📩
 Email: nikhil.s.polepalli@gmail.com
 
 Phone: +1(502)-424-7440
 
-## Connect With Me 
+## Connect With Me 📱
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/nikhil.polepalli/)
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-s-polepalli-87b584186/)
