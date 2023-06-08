@@ -3,6 +3,7 @@
 
 
 ## About Me
+I'm a rising senior at Vanderbilt University studying Computer Science and Economics. I love watching soccer, trying out new cooking recipes, and playing spikeball with my friends. I hope this GitHub helps highlight my past experineces and demonstrates my talent as a software engineer!
 
 <!--
 **NSPOLE01/NSPOLE01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
