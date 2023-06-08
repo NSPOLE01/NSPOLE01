@@ -11,6 +11,8 @@ Phone: +1(502)-424-7440
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/nikhil.polepalli/)
 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-s-polepalli-87b584186/)
+
 
 <!--
 **NSPOLE01/NSPOLE01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
