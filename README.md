@@ -9,11 +9,12 @@ I'm a rising senior at Vanderbilt University studying Computer Science and Econo
 Email: nikhil.s.polepalli@gmail.com
 Phone: +1(502)-424-7440
 
+## Connect With Me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/nikhil.polepalli/)
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-s-polepalli-87b584186/)
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](nikhil.s.polepalli@gmail.com)
+
 <!--
 **NSPOLE01/NSPOLE01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
