@@ -17,7 +17,7 @@ Phone: +1(502)-424-7440
 ## View My Portfolio Here!
 www.nikhilpolepalli.com
 
-Associate repo: 
+Associated repo: https://github.com/NSPOLE01/PortfolioSite
 
 
 <!--
