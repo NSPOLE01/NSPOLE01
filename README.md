@@ -2,7 +2,7 @@
 
 
 ## About Me 📝
-I'm a rising senior at Vanderbilt University studying Computer Science and Economics. I love watching soccer, trying out new cooking recipes, and playing spikeball with my friends. I hope this GitHub helps highlight my past experineces and demonstrates my talent as a software engineer!
+I'm a Vanderbilt Grad with a dual degree in Computer Science and Economics. Currently, I am a Software Engineer at Capital One where I work on maintaining and building critical database infrastructure. As a certified AWS solutions architect, I have a strong foundational knowledge of cloud services and have deployed several microarchitecture services independently. While most of my repos are private for personal reasons, I hope my public repositories help highlight my past experiences and demonstrate my talent as a software engineer!
 
 ## Contact Me 📩
 Email: nikhil.s.polepalli@gmail.com
